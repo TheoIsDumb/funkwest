@@ -3,13 +3,13 @@
 <format>2.5</format>
 <program version="2.33.5" os="*nix" />
 
-<postscript_name>funky</postscript_name>
-<name>funky</name>
+<postscript_name>abracadabra</postscript_name>
+<name>abracadabra</name>
 <subfamily>Regular</subfamily>
 <bold>false</bold>
 <italic>false</italic>
-<full_name>Typeface</full_name>
-<unique_identifier>Typeface</unique_identifier>
+<full_name>abracadabra</full_name>
+<unique_identifier>abracadabra</unique_identifier>
 <version>Version 1.0</version>
 <description></description>
 <copyright></copyright>
@@ -1129,9 +1129,9 @@
 
 
 
+<kerning left="c" right="a" hadjustment="-1.44675" />
 <kerning left="p" right="a" hadjustment="-12" />
 <kerning left="f" right="a" hadjustment="-13" />
-<kerning left="c" right="a" hadjustment="-1.44675" />
 <kerning left="t" right="a" hadjustment="-8" />
 <kerning left="w" right="a" hadjustment="-4" />
 <kerning left="C" right="A" hadjustment="-1.12585" />
